@@ -6,14 +6,15 @@ Strengthen your skills learned during the C Piscine by recoding functions from t
 
 ```diff
  Objectives:
- + C Basics 
- + Libc
- + Static library generation
+
++ C Basics.
++ Libc.
++ Static library generation.
   
  Skills:
- + Imperative programming
- + Algorithms & AI
- + Rigor
++ Imperative programming.
++ Algorithms & AI.
++ Rigor.
  
 ```
 ### General Instructions
